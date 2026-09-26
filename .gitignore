@@ -1,4 +1,15 @@
-.DS_Store
-
-
+# Large datasets
 *.csv
+catboost_info
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# DS STORE AND PDF
+.DS_STORE
+*.pdf
